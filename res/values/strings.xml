@@ -16,8 +16,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Setup Wizard</string>
-    <string name="product_name" translatable="false">cyanogenmod</string>
-    <string name="os_name" translatable="false">CyanogenMod</string>
+    <string name="product_name" translatable="false">DEMENTED</string>
+    <string name="os_name" translatable="false">DEMENTED</string>
     <string name="default_theme_name" translatable="false">Material</string>
 
     <string name="cm_account_type" translatable="false">com.cyanogenmod.account</string>
